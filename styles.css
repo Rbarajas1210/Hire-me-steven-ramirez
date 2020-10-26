@@ -1,0 +1,41 @@
+img {
+    width: 200px;
+    border-style: dotted;
+    border-radius: 100%;
+    height: 60%;
+    width: 15%;
+    float: right;
+}
+@media (small-width:60px) {}
+body {
+    text-align: center;
+     list-style-position: inside;
+       background-color: #ff9999;
+       font-family: 'Rochester', cursive;
+       background-image: url("https://images.pexels.com/photos/372462/pexels-photo-372462.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: blue;
+     text-decoration: underline #808080;
+     font-family: 'Berkshire Swash', cursive;
+     text-decoration: overline;
+     text-decoration: overline;
+}
+h2 {
+    text-shadow: 88px 90px #ff9999;
+}
+h3 {
+    text-decoration: underline #fabb00;
+}
+p {
+    color: orange;
+}
+div {
+    width: 30px;
+    border: 25px solid green;
+    padding: 75px;
+    margin: 25px;
+}
+@media (small-width:60px) {}
